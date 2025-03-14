@@ -1,6 +1,6 @@
 The bee-headers/headers.git project is distributed under the following licenses:
 
-1. `elf.h`:
+1. `elf.h`, `asm` and `asm-generic`:
    This file is part of the GNU C Library and is licensed under the GNU Lesser
    General Public License version 2.1 only. See `LICENSES/preferred/LGPL-2.1`
    for details.
